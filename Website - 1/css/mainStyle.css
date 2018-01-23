@@ -1,0 +1,1829 @@
+@media screen and (max-width: 747px) {
+    body,
+    html {
+        font: 15px/1.5 'Open Sans', sans-serif;
+    }
+    body * {
+        box-sizing: border-box;
+        outline: none;
+        border: 0px solid green;
+    }
+    .container,
+    #Expand_Your_Digital_Presence .container {
+        width: 90%;
+        margin: auto;
+        overflow: hidden;
+    }
+    header .container nav ul li a,
+    #Get_the_App_Here button {
+        font-size: 15px;
+    }
+    #Your_Main_Features p,
+    #Our_Team p,
+    #job_positions p {
+        color: #aaa;
+    }
+    #branding,
+    #Testimonials img {
+        float: left;
+    }
+    .block {
+        display: inline-block;
+    }
+    #Our_Team img,
+    #Testimonials img,
+    #Solution_in_3_Easy_Steps span {
+        border-radius: 50%;
+    }
+    #Testimonials p,
+    #job_positions .box p {
+        padding: 10px 0;
+    }
+    #Expand_Your_Digital_Presence p,
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(3),
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(4),
+    #Choose_Your_Plan .box:nth-of-type(2) table tr td p:nth-of-type(4),
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(5),
+    #Choose_Your_Plan .box:nth-of-type(2) table tr td p:nth-of-type(5),
+    #Choose_Your_Plan .box:nth-of-type(3) table tr td p:nth-of-type(5),
+    #Testimonials p,
+    #Contacts .box p {
+        color: #888;
+    }
+    .social_links .fa,
+    #Choose_Your_Plan table tr:nth-of-type(1) td,
+    #Great_Way_to_Describe_Your_App a,
+    #Frequently_asked_questions a,
+    #Solution_in_3_Easy_Steps span,
+    #Show_The_Timeline_of_Your_Project h2,
+    #job_positions .box h2 {
+        font-size: 17px;
+    }
+    #All_Blocks ul li a,
+    #Denise_Hope small,
+    #Contacts .container .box:nth-of-type(2) .fa,
+    form input,
+    form textarea,
+    form button,
+    p {
+        font-size: 13px;
+    }
+    #Great_Way_to_Describe_Your_App .accordion,
+    .block,
+    section .container {
+        padding: 0 10px;
+    }
+    #Expand_Your_Digital_Presence .container {
+        padding: 0;
+    }
+    #Choose_Your_Plan .container .box:nth-of-type(odd),
+    form input,
+    form textarea,
+    form button {
+        border: 1px solid #ccc;
+    }
+    .horizontal_line,
+    section h1 {
+        margin-bottom: 30px;
+    }
+    #Denise_Hope h1,
+    #Testimonials h1 {
+        margin-bottom: 0;
+    }
+    header,
+    #All_Blocks,
+    #Solution_in_3_Easy_Steps span {
+        position: absolute;
+    }
+    .yellow,
+    .white,
+    .one_data,
+    .two_data,
+    .three_data {
+        font-size: 12px;
+    }
+    .progress_bar,
+    .progress_filled {
+        height: 12px;
+    }
+    header .container nav ul li,
+    #Your_Main_Features .box,
+    #Testimonials .box {
+        padding: 10px;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(1) td,
+    .Numbers_box,
+    .accordion .row {
+        padding: 20px;
+    }
+    #Denise_Hope small,
+    .one_data,
+    .two_data,
+    .three_data,
+    #Solution_in_3_Easy_Steps p,
+    footer p,
+    #Show_The_Timeline_of_Your_Project p {
+        color: #999;
+    }
+    section:nth-of-type(odd) {
+        background-color: #ECEFF1;
+    }
+    header .container nav,
+    #All_Blocks,
+    #Get_the_App_Here button,
+    #Get_the_App_Here button:nth-of-type(2):hover,
+    .horizontal_line {
+        border: 1px solid #FBC844;
+    }
+    header .container nav ul #allblocks a .fa,
+    #nav_btn,
+    .progress_cover span:nth-of-type(2),
+    .block,
+    #Testimonials .box:nth-of-type(2),
+    .accordion span {
+        float: right;
+    }
+    #up,
+    #hero h1,
+    .Numbers_box span,
+    #Contacts .container .fa {
+        font-size: 25px;
+    }
+    .yellow:hover,
+    .white:hover,
+    #Get_the_App_Here button:hover {
+        transition: 0.3s;
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    #up,
+    #allblocks a .fa,
+    #Expand_Your_Digital_Presence h1,
+    #Choose_Your_Plan table tr:nth-of-type(1) td,
+    #Choose_Your_Plan table span,
+    .Numbers_box span,
+    .accordion .row a,
+    .accordion .row span {
+        font-weight: 900;
+    }
+    section {
+        padding: 50px 0;
+    }
+    .white,
+    #Get_the_App_Here button:nth-of-type(1):hover {
+        background-color: #fff;
+    }
+    #branding img,
+    #branding h1,
+    #Expand_Your_Digital_Presence img {
+        position: relative;
+    }
+    #hero .container button,
+    #Expand_Your_Digital_Presence .image,
+    #Get_the_App_Here button,
+    .box,
+    #Denise_Hope ul,
+    #Denise_Hope .sidebar,
+    .Numbers_box,
+    #Great_Way_to_Describe_Your_App .image,
+    .open,
+    form input,
+    form textarea,
+    form button {
+        display: block;
+    }
+    header .container nav ul li a,
+    #All_Blocks ul,
+    #All_Blocks ul li a,
+    #Get_the_App_Here button .fa,
+    #Get_the_App_Here button:nth-of-type(1):hover,
+    .social_links a .fa,
+    #Choose_Your_Plan table span,
+    .Numbers_box span,
+    .accordion .row span,
+    #Contacts .fa,
+    #Contacts button:hover,
+    #Contacts .box:last-child button:hover .fa {
+        color: #FBC844;
+    }
+    header,
+    header .container nav ul li,
+    header .container nav,
+    section .container,
+    #Expand_Your_Digital_Presence img,
+    #Expand_Your_Digital_Presence .sidebar,
+    .progress_bar,
+    section .box,
+    #Choose_Your_Plan table,
+    #Denise_Hope img,
+    #App_Screenshots img,
+    #Show_The_Timeline_of_Your_Project img,
+    .accordion,
+    form input,
+    form textarea,
+    form button {
+        width: 100%;
+    }
+    .yellow,
+    .white,
+    #up,
+    #nav_btn {
+        border: 0;
+    }
+    h1 {
+        font-size: 23px;
+        letter-spacing: 1px;
+    }
+    a {
+        text-decoration: none;
+    }
+    button,
+    .accordion .row,
+    #up {
+        cursor: pointer;
+    }
+    header .container nav ul li:last-child a,
+    #nav_btn,
+    .accordion .row a,
+    .accordion .row a,
+    #Contacts .container button .fa {
+        color: #000;
+    }
+    .yellow,
+    #up,
+    #allblocks,
+    #nav_btn,
+    .progress_filled,
+    #Get_the_App_Here button:nth-of-type(2):hover,
+    #Solution_in_3_Easy_Steps span {
+        background-color: #FBC844;
+    }
+    #Get_the_App_Here button:nth-of-type(2):hover .fa {
+        color: #fff;
+    }
+    section,
+    section h1,
+    #job_positions .box,
+    footer {
+        text-align: center;
+    }
+    #hero,
+    #Expand_Your_Digital_Presence,
+    #Denise_Hope,
+    #Testimonials,
+    #Great_Way_to_Describe_Your_App,
+    #Solution_in_3_Easy_Steps,
+    #Frequently_asked_questions,
+    #hero h1,
+    #Expand_Your_Digital_Presence h1,
+    #Denise_Hope h1 {
+        text-align: left;
+    }
+    .yellow:hover,
+    .white:hover,
+    #up,
+    #branding h1,
+    header,
+    #hero,
+    #Get_the_App_Here *,
+    #Solution_in_3_Easy_Steps span {
+        color: #fff;
+    }
+    .yellow,
+    .white {
+        padding: 15px 35px;
+    }
+    .yellow:hover,
+    .white:hover {
+        background-color: #aaa;
+    }
+    header,
+    #All_Blocks,
+    form button:hover,
+    #Contacts button:hover,
+    #Contacts button:hover .fa {
+        background-color: #000;
+    }
+    #up {
+        padding: 5px 10px;
+        bottom: 40px;
+        right: 40px;
+        position: fixed;
+        display: none;
+    }
+    #branding {
+        margin: 0;
+        padding: 0;
+        height: 39px;
+    }
+    #branding h1 {
+        font-size: 18px;
+        display: inline;
+        top: -10px;
+        margin-left: 2vw;
+    }
+    /* header */
+    header {
+        padding: 20px 0;
+    }
+    header .container nav ul li {
+        border-bottom: 1px solid #FBC844;
+        height: 50px;
+    }
+    #allblocks a .fa {
+        margin: 5px 10px 0 0;
+    }
+    header .container nav ul li a {
+        height: 50px;
+    }
+    nav {
+        margin-top: 39px;
+        display: none;
+    }
+    #nav_btn {
+        margin: 3px 0 0 0;
+        padding: 5px 10px;
+        font-size: 22px;
+    }
+    #All_Blocks {
+        width: 88vw;
+        padding-top: 10px;
+        visibility: hidden;
+        margin: 19px 0 0 -10px;
+    }
+    #allblocks:hover #All_Blocks {
+        visibility: visible;
+    }
+    #All_Blocks ul li a {
+        letter-spacing: 0;
+        text-transform: capitalize;
+        padding: 0 20px;
+    }
+    #hero {
+        padding: 220px 0 50px 0;
+        background: url('../images/Dark-Black-Background3.jpg') no-repeat center;
+        background-size: cover;
+        height: 600px;
+    }
+    #hero .container {
+        padding: 0 20px;
+    }
+    #hero h1 {
+        letter-spacing: 1.5px;
+    }
+    #hero p {
+        margin: 30px 0 40px 0;
+        font-size: 14px;
+    }
+    #hero button {
+        width: 140px;
+        margin-top: 20px;
+    }
+    #Expand_Your_Digital_Presence {
+        padding: 50px 0;
+    }
+    #Expand_Your_Digital_Presence .image {
+        width: 50%;
+        margin: 0 auto;
+        z-index: -10;
+        position: relative;
+    }
+    #Expand_Your_Digital_Presence .sidebar {
+        margin-top: 50px;
+    }
+    #Expand_Your_Digital_Presence h1 {
+        font-size: 20px;
+    }
+    #progress_box {
+        margin-top: 20px;
+    }
+    .progress_bar {
+        background-color: #eee;
+        margin: 5px 0;
+    }
+    .progress_cover {
+        margin-top: 15px;
+    }
+    .progress_cover:nth-of-type(1) .progress_bar .progress_filled {
+        width: 95%;
+    }
+    .progress_cover:nth-of-type(2) .progress_bar .progress_filled {
+        width: 99%;
+    }
+    .progress_cover:nth-of-type(3) .progress_bar .progress_filled {
+        width: 90%;
+    }
+    #Get_the_App_Here {
+        background: url('../images/Dark-Black-Background2.jpg') no-repeat;
+        background-size: cover;
+        height: 350px;
+    }
+    #Get_the_App_Here button {
+        margin: 25px auto auto auto;
+        background-color: transparent;
+        padding: 15px 25px;
+    }
+    #Get_the_App_Here button:nth-of-type(1):hover {
+        border: 1px solid #fff;
+    }
+    .horizontal_line {
+        width: 10vw;
+        margin: 10px auto auto auto;
+    }
+    #Your_Main_Features h1,
+    #Our_Team h1,
+    #Our_Team h1,
+    #Our_Team img,
+    #Show_The_Timeline_of_Your_Project img {
+        margin-bottom: 20px;
+    }
+    #Your_Main_Features h3 {
+        font-size: 18px;
+    }
+    #Our_Team .box {
+        margin: 20px 0;
+    }
+    #Our_Team p {
+        margin-top: 5px;
+    }
+    .social_links .fa {
+        margin: 10px 5px 0 5px;
+    }
+    #Choose_Your_Plan h1 {
+        margin-bottom: 40px;
+    }
+    #Choose_Your_Plan .box {
+        margin-top: 30px;
+    }
+    #Choose_Your_Plan p {
+        padding: 5px 0;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(2) td {
+        padding: 30px;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(1) td {
+        border-bottom: 1px solid #ccc;
+    }
+    #Choose_Your_Plan .box:nth-of-type(odd) {
+        padding-bottom: 30px;
+    }
+    #Choose_Your_Plan .box:nth-of-type(2) {
+        border: 4px solid #FBC844;
+        padding-bottom: 30px;
+    }
+    #Choose_Your_Plan table span {
+        font-size: 20px;
+    }
+    #logos .box {
+        margin-top: 20px;
+    }
+    #Denise_Hope ul {
+        margin: 50px 0;
+    }
+    #Denise_Hope ul li {
+        margin: 15px 0;
+        background: url("../images/arrow.svg") 0 50% no-repeat;
+        padding-left: 15px;
+    }
+    #Denise_Hope .sidebar {
+        width: 50%;
+        top: -300px;
+        margin: 10px auto;
+    }
+    #Denise_Hope img {
+        margin-bottom: -5px;
+    }
+    #Testimonials img {
+        width: 100px;
+        padding: 5px;
+    }
+    #Testimonials h2 {
+        font-size: 18px;
+        margin-left: 30%;
+    }
+    #Testimonials p {
+        margin-left: 30%;
+    }
+    #App_Screenshots .box {
+        padding: 0 25%;
+        margin-top: 20px;
+    }
+    #People_Love_Numbers .Numbers_box {
+        border: 2px solid #333;
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    #People_Love_Numbers h2 {
+        font-size: 18px;
+    }
+    #Great_Way_to_Describe_Your_App {
+        padding: 50px 10px 0 10px;
+    }
+    #Great_Way_to_Describe_Your_App .accordion {
+        top: 50px;
+        margin-bottom: 50px;
+    }
+    #Great_Way_to_Describe_Your_App .image {
+        width: 350px;
+        margin: -5px auto;
+    }
+    #Great_Way_to_Describe_Your_App img {
+        width: 350px;
+    }
+    #Great_Way_to_Describe_Your_App .row {
+        border-bottom: 1px solid #999;
+        padding: 20px 10px;
+    }
+    .one_data,
+    .two_data,
+    .three_data {
+        padding: 15px 15px 0 0;
+        display: none;
+    }
+    #Solution_in_3_Easy_Steps h2 {
+        font-size: 20px;
+    }
+    #Solution_in_3_Easy_Steps .box {
+        display: table;
+        margin-top: 20px;
+    }
+    #Solution_in_3_Easy_Steps span {
+        padding: 7px 15px;
+        width: 40px;
+        height: 40px;
+        margin-left: 7vw;
+        display: table-cell;
+    }
+    .block {
+        width: 80%;
+    }
+    #Show_The_Timeline_of_Your_Project p {
+        padding: 5px 10px;
+    }
+    #Frequently_asked_questions .accordion {
+        border: 1px solid #B0BEC5;
+        margin: 5% auto;
+    }
+    #Frequently_asked_questions .row {
+        border-bottom: 1px solid #B0BEC5;
+    }
+    #Frequently_asked_questions .row:last-child {
+        border-bottom: 0;
+    }
+    .one_data {
+        display: block;
+    }
+    #job_positions .box {
+        margin-bottom: 40px;
+    }
+    #job_positions .box p {
+        margin-bottom: 10px;
+    }
+    #Contacts p {
+        margin: 20px;
+    }
+    form input,
+    form textarea,
+    form button {
+        padding: 15px;
+        margin: 20px 0;
+    }
+    #Contacts button {
+        width: 130px;
+    }
+    #Contacts button:hover,
+    #Contacts button:hover .fa {
+        border-color: #000;
+    }
+    textarea {
+        resize: none;
+    }
+    footer {
+        background-color: #151515;
+        padding: 55px 0;
+    }
+    footer p {
+        margin: 10px 20px;
+    }
+}
+
+@media screen and (min-width: 748px) and (max-width: 1036px) {
+    body,
+    html {
+        font: 15px/1.5 'Open Sans', sans-serif;
+    }
+    body * {
+        box-sizing: border-box;
+        outline: none;
+    }
+    .container,
+    #Expand_Your_Digital_Presence .container,
+    form input,
+    form textarea,
+    form button {
+        width: 90%;
+        margin: auto;
+        overflow: hidden;
+    }
+    #job_positions .box,
+    #Contacts .container .box {
+        display: table-cell;
+    }
+    #job_positions .container,
+    #Contacts .container {
+        display: table;
+    }
+    #up,
+    #nav_btn,
+    .one_data,
+    .two_data,
+    .three_data {
+        display: none;
+    }
+    .social_links a .fa,
+    #Choose_Your_Plan table tr:nth-of-type(1) td,
+    #Solution_in_3_Easy_Steps span,
+    #Show_The_Timeline_of_Your_Project h2,
+    #job_positions .box h2 {
+        font-size: 17px;
+    }
+    #Our_Team img,
+    #Testimonials img,
+    #Solution_in_3_Easy_Steps span {
+        border-radius: 50%;
+    }
+    #branding h1,
+    #Your_Main_Features h3,
+    #Testimonials h2,
+    .Numbers_box h2,
+    #Great_Way_to_Describe_Your_App a,
+    .accordion .row a {
+        font-size: 18px;
+    }
+    .yellow,
+    .white,
+    .one_data,
+    .two_data,
+    .three_data {
+        font-size: 12px;
+    }
+    #People_Love_Numbers .horizontal_line,
+    section h1 {
+        margin-bottom: 30px;
+    }
+    #Denise_Hope h1 {
+        margin-bottom: 0;
+    }
+    #Your_Main_Features p,
+    #Our_Team p,
+    #job_positions p {
+        color: #aaa;
+    }
+    section h1 {
+        font-size: 23px;
+    }
+    .progress_bar,
+    .progress_filled {
+        height: 12px;
+    }
+    #Expand_Your_Digital_Presence p,
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(3),
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(4),
+    #Choose_Your_Plan .box:nth-of-type(2) table tr td p:nth-of-type(4),
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(5),
+    #Choose_Your_Plan .box:nth-of-type(2) table tr td p:nth-of-type(5),
+    #Choose_Your_Plan .box:nth-of-type(3) table tr td p:nth-of-type(5),
+    #Testimonials p,
+    #Solution_in_3_Easy_Steps p,
+    #Contacts p {
+        color: #888;
+    }
+    #Expand_Your_Digital_Presence .sidebar,
+    #Testimonials .box {
+        width: 50%;
+    }
+    header .container nav ul li,
+    #branding,
+    #Testimonials img,
+    #Great_Way_to_Describe_Your_App .accordion,
+    #Solution_in_3_Easy_Steps span {
+        float: left;
+    }
+    section .container {
+        padding: 0 10px;
+    }
+    section p,
+    #Denise_Hope small,
+    #Contacts .container button .fa,
+    form input,
+    form textarea,
+    form button {
+        font-size: 13px;
+    }
+    section,
+    section h1,
+    footer {
+        text-align: center;
+    }
+    #All_Blocks,
+    #Choose_Your_Plan .container table tr td p,
+    #Testimonials p,
+    #job_positions .box p {
+        padding: 10px 0;
+    }
+    #Contacts .box p,
+    form input,
+    form textarea,
+    form button,
+    footer p {
+        margin: 20px;
+    }
+    #hero *,
+    #Expand_Your_Digital_Presence *,
+    #Denise_Hope *,
+    #Testimonials,
+    #Solution_in_3_Easy_Steps,
+    #Great_Way_to_Describe_Your_App,
+    #Frequently_asked_questions {
+        text-align: left;
+    }
+    #Choose_Your_Plan .container .box:nth-of-type(odd),
+    form input,
+    form textarea,
+    form button {
+        border: 1px solid #ccc;
+    }
+    #All_Blocks ul,
+    #All_Blocks ul li a,
+    #Contacts .container button .fa {
+        color: #000;
+    }
+    button,
+    #up,
+    .accordion .row {
+        cursor: pointer;
+    }
+    .yellow,
+    .white,
+    #up {
+        border: 0;
+    }
+    header,
+    #All_Blocks ul li,
+    #All_Blocks ul li a,
+    section .container,
+    #Expand_Your_Digital_Presence img,
+    .progress_bar,
+    #Choose_Your_Plan table,
+    #Denise_Hope img,
+    #App_Screenshots img,
+    #Show_The_Timeline_of_Your_Project img {
+        width: 100%;
+    }
+    #All_Blocks ul li a:hover,
+    #Get_the_App_Here button .fa,
+    #Get_the_App_Here button:nth-of-type(1):hover,
+    .social_links a .fa,
+    #Choose_Your_Plan table span,
+    .Numbers_box span,
+    .accordion .row span,
+    #Contacts .container .fa,
+    #Contacts .container .box:last-child button:hover,
+    #Contacts .container .box:last-child button:hover .fa {
+        color: #FBC844;
+    }
+    header,
+    #Contacts .container .box:last-child button:hover,
+    #Contacts .container .box:last-child button:hover .fa {
+        background-color: #000;
+    }
+    #Expand_Your_Digital_Presence .image,
+    #People_Love_Numbers .container .Numbers_box,
+    .block,
+    .box {
+        display: inline-block;
+    }
+    .open,
+    form input,
+    form textarea,
+    form button {
+        display: block;
+    }
+    #branding img,
+    #branding h1,
+    #Denise_Hope .sidebar {
+        position: relative;
+    }
+    section {
+        padding: 50px 0;
+    }
+    .yellow:hover,
+    .white:hover,
+    #Get_the_App_Here button:hover,
+    #All_Blocks ul li a:hover {
+        transition: 0.3s;
+    }
+    #up,
+    #hero h1,
+    .Numbers_box span,
+    #Contacts .fa {
+        font-size: 25px;
+    }
+    header nav,
+    #Expand_Your_Digital_Presence .sidebar,
+    .progress_cover span:nth-of-type(2),
+    #Denise_Hope .sidebar,
+    #Testimonials .box:nth-of-type(2),
+    #Great_Way_to_Describe_Your_App img,
+    .accordion span,
+    #Solution_in_3_Easy_Steps p,
+    .block {
+        float: right;
+    }
+    #All_Blocks,
+    #Get_the_App_Here button,
+    #Get_the_App_Here button:nth-of-type(2):hover,
+    .horizontal_line {
+        border: 1px solid #FBC844;
+    }
+    section:nth-of-type(odd) {
+        background-color: #ECEFF1;
+    }
+    #Denise_Hope small,
+    .one_data,
+    .two_data,
+    .three_data,
+    #Show_The_Timeline_of_Your_Project p,
+    footer p {
+        color: #999;
+    }
+    .yellow:hover,
+    .white:hover,
+    #up,
+    header,
+    header .container nav ul li a,
+    #branding h1,
+    #hero h1,
+    #hero p,
+    #Get_the_App_Here,
+    #Get_the_App_Here button,
+    #Get_the_App_Here button:nth-of-type(2):hover,
+    #Get_the_App_Here button:nth-of-type(2):hover .fa,
+    #Solution_in_3_Easy_Steps span {
+        color: #fff;
+    }
+    .yellow,
+    .white,
+    #up,
+    .progress_filled,
+    #Get_the_App_Here button:nth-of-type(2):hover,
+    #Solution_in_3_Easy_Steps span {
+        background-color: #FBC844;
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    #up,
+    header .container nav ul li:last-child a .fa,
+    #Choose_Your_Plan table tr:nth-of-type(1) td,
+    #Choose_Your_Plan table span,
+    .Numbers_box span,
+    .accordion .row a,
+    .accordion .row span {
+        font-weight: 900;
+    }
+    #Your_Main_Features h1,
+    #Our_Team h1,
+    #App_Screenshots h1,
+    #Great_Way_to_Describe_Your_App h1 {
+        margin-bottom: 50px;
+    }
+    h1 {
+        letter-spacing: 2px;
+    }
+    a {
+        text-decoration: none;
+    }
+    .yellow,
+    .white {
+        padding: 15px 35px;
+    }
+    .yellow:hover,
+    .white:hover {
+        background-color: #aaa;
+    }
+    .white,
+    #All_Blocks,
+    #Get_the_App_Here button:nth-of-type(1):hover {
+        background-color: #fff;
+    }
+    #up {
+        padding: 5px 10px;
+        bottom: 40px;
+        right: 40px;
+        position: fixed;
+    }
+    /* header */
+    header {
+        position: fixed;
+        padding: 20px 0;
+    }
+    header .container nav ul li a {
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        padding: 5px 0;
+        font-size: 14px;
+    }
+    header .container nav ul li {
+        padding: 5px 10px;
+        display: inline;
+    }
+    #branding h1 {
+        display: inline;
+        top: -7px;
+        margin-left: 2vw;
+    }
+    header nav {
+        margin: 5px 20px 0 0;
+    }
+    header .container nav ul li a:hover {
+        border-bottom: 1px solid #FBC844;
+    }
+    #All_Blocks {
+        width: 184px;
+        margin: 10px -20px;
+        position: absolute;
+        visibility: hidden;
+    }
+    #allblocks:hover #All_Blocks {
+        visibility: visible;
+    }
+    #All_Blocks ul li a {
+        letter-spacing: 0;
+        text-transform: capitalize;
+        border: 0;
+    }
+    #hero {
+        padding: 220px 0 50px 0;
+        background: url('../images/Dark-Black-Background3.jpg') no-repeat center;
+        background-size: cover;
+        height: 600px;
+    }
+    #hero .container {
+        padding: 0 20px;
+    }
+    #hero h1 {
+        letter-spacing: 1.5px;
+    }
+    #hero p {
+        margin: 30px 0 40px 0;
+        font-size: 16px;
+    }
+    #hero .yellow {
+        margin-right: 5vw;
+    }
+    #Expand_Your_Digital_Presence {
+        padding: 100px 0;
+    }
+    #Expand_Your_Digital_Presence .image {
+        width: 40%;
+    }
+    #Expand_Your_Digital_Presence .sidebar {
+        margin-top: 15%;
+    }
+    #progress_box {
+        margin-top: 20px;
+    }
+    .progress_bar {
+        background-color: #eee;
+        margin: 5px 0;
+    }
+    .progress_cover {
+        margin-top: 15px;
+    }
+    .progress_cover:nth-of-type(1) .progress_bar .progress_filled {
+        width: 95%;
+    }
+    .progress_cover:nth-of-type(2) .progress_bar .progress_filled {
+        width: 99%;
+    }
+    .progress_cover:nth-of-type(3) .progress_bar .progress_filled {
+        width: 90%;
+    }
+    #Get_the_App_Here {
+        background: url('../images/Dark-Black-Background2.jpg') no-repeat center;
+        background-size: cover;
+        height: 350px;
+        padding-top: 50px;
+    }
+    #Get_the_App_Here button {
+        margin-top: 50px;
+        background-color: transparent;
+        padding: 15px 30px;
+        font-size: 15px;
+    }
+    #Get_the_App_Here button:nth-of-type(1) {
+        margin-right: 40px;
+    }
+    #Get_the_App_Here button:nth-of-type(1):hover {
+        border: 1px solid #fff;
+    }
+    .horizontal_line {
+        width: 10vw;
+        margin: 30px auto auto auto;
+    }
+    #Your_Main_Features .box {
+        width: 32%;
+        padding: 5px;
+    }
+    #Our_Team h3 {
+        font-size: 16px;
+    }
+    #Our_Team img {
+        margin-bottom: 20px;
+    }
+    #Our_Team .box {
+        width: 24%;
+    }
+    #Our_Team p {
+        margin-top: 5px;
+    }
+    .social_links a .fa {
+        margin: 10px 5px 0 5px;
+    }
+    #Choose_Your_Plan h1 {
+        margin-bottom: 40px;
+    }
+    #Choose_Your_Plan .box {
+        width: 32.75%;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(2) td {
+        padding: 30px;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(1) td {
+        border-bottom: 1px solid #ccc;
+        padding: 15px;
+    }
+    #Choose_Your_Plan .container .box:nth-of-type(odd) {
+        padding-bottom: 30px;
+    }
+    #Choose_Your_Plan .container .box:nth-of-type(2) {
+        border: 4px solid #FBC844;
+        padding-bottom: 30px;
+    }
+    #Choose_Your_Plan table span {
+        font-size: 20px;
+    }
+    #logos .box {
+        width: 32.9%;
+    }
+    #Denise_Hope ul {
+        margin: 50px 0;
+        width: 48%;
+    }
+    #Denise_Hope ul li {
+        margin: 15px 0;
+        background: url("../images/arrow.svg") 0 50% no-repeat;
+        padding-left: 15px;
+    }
+    #Denise_Hope .container .sidebar {
+        width: 48%;
+        margin-top: -300px;
+        z-index: -1;
+    }
+    #Testimonials .box {
+        padding: 10px;
+    }
+    #Testimonials img {
+        width: 20%;
+    }
+    #Testimonials h2 {
+        width: 70%;
+        margin-left: 30%;
+    }
+    #Testimonials p {
+        margin-left: 30%;
+    }
+    #App_Screenshots .box {
+        width: 24.35%;
+    }
+    .Numbers_box {
+        border: 2px solid #333;
+        font-size: 20px;
+        width: 47%;
+        margin: 1%;
+        padding: 20px;
+    }
+    #Great_Way_to_Describe_Your_App {
+        padding-top: 50px;
+    }
+    #Great_Way_to_Describe_Your_App .accordion {
+        width: 55%;
+        margin-left: 7%;
+        top: 50px;
+    }
+    #Great_Way_to_Describe_Your_App .container img {
+        width: 35%;
+    }
+    #Great_Way_to_Describe_Your_App .accordion .row {
+        border-bottom: 1px solid #999;
+        padding: 20px;
+    }
+    .one_data,
+    .two_data,
+    .three_data {
+        padding: 15px 15px 0 0;
+    }
+    #Solution_in_3_Easy_Steps h2 {
+        font-size: 20px;
+    }
+    #Solution_in_3_Easy_Steps .box {
+        width: 32.5%;
+    }
+    #Solution_in_3_Easy_Steps span {
+        padding: 7px 15px;
+        width: 40px;
+        height: 40px;
+        margin: 10px 0 0 10px;
+    }
+    .block {
+        width: 75%;
+    }
+    #Show_The_Timeline_of_Your_Project .box {
+        margin-top: 50px;
+        width: 32.5%;
+    }
+    #Show_The_Timeline_of_Your_Project p {
+        padding: 5px 10px;
+    }
+    #Frequently_asked_questions .accordion {
+        border: 1px solid #B0BEC5;
+        width: 65%;
+        margin: 5% auto;
+    }
+    #Frequently_asked_questions .row {
+        border-bottom: 1px solid #B0BEC5;
+        padding: 20px;
+    }
+    #Frequently_asked_questions .accordion .row:last-child {
+        border-bottom: 0;
+    }
+    .one_data {
+        display: block;
+    }
+    #job_positions .box p {
+        height: 100px;
+    }
+    #job_positions button {
+        bottom: 0;
+    }
+    #Contacts .container .box {
+        height: 50px;
+    }
+    #Contacts .box {
+        width: 45%;
+    }
+    #Contacts .container button .fa {
+        background-color: transparent;
+    }
+    form input,
+    form textarea,
+    form button {
+        padding: 15px;
+    }
+    #Contacts .container .box:last-child button {
+        width: 130px;
+    }
+    #Contacts .container .box:last-child button:hover,
+    #Contacts .container .box:last-child button:hover .fa {
+        border-color: #000;
+    }
+    textarea {
+        resize: none;
+    }
+    footer {
+        background-color: #151515;
+        padding: 55px 0;
+    }
+}
+
+@media screen and (min-width: 1037px) {
+    body,
+    html {
+        font: 15px/1.5 'Open Sans', sans-serif;
+    }
+    body * {
+        box-sizing: border-box;
+        outline: none;
+    }
+    .container {
+        width: 90%;
+        margin: auto;
+        overflow: hidden;
+    }
+    #Denise_Hope small,
+    #job_positions .box p,
+    #Contacts .container button .fa {
+        font-size: 15px;
+    }
+    header,
+    #Contacts .container .box:last-child button:hover,
+    #Contacts .container .box:last-child button:hover .fa {
+        background-color: #000;
+    }
+    #Denise_Hope ul,
+    #Denise_Hope h1,
+    #Denise_Hope .sidebar {
+        width: 48%;
+    }
+    #Choose_Your_Plan .box:nth-of-type(odd),
+    form input,
+    form textarea,
+    form button {
+        border: 1px solid #ccc;
+    }
+    #up,
+    header {
+        position: fixed;
+    }
+    #Expand_Your_Digital_Presence h1,
+    #Choose_Your_Plan table span,
+    #Contacts .container .fa {
+        font-size: 30px;
+    }
+    #Expand_Your_Digital_Presence .sidebar,
+    #Testimonials .box {
+        width: 50%;
+    }
+    .one_data,
+    .two_data,
+    .three_data {
+        font-size: 14px;
+    }
+    #Denise_Hope small,
+    .one_data,
+    .two_data,
+    .three_data,
+    #Show_The_Timeline_of_Your_Project p,
+    footer p {
+        color: #999;
+    }
+    #branding h1,
+    .social_links a .fa,
+    .accordion .row a,
+    #Solution_in_3_Easy_Steps span,
+    #Show_The_Timeline_of_Your_Project h2,
+    #job_positions .box h2 {
+        font-size: 22px;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(1) td,
+    #Great_Way_to_Describe_Your_App .accordion .row,
+    #Frequently_asked_questions .accordion .row,
+    form input,
+    form textarea,
+    form button {
+        padding: 20px;
+    }
+    #Your_Main_Features p,
+    #Our_Team p,
+    #job_positions .box p {
+        color: #aaa;
+    }
+    #Get_the_App_Here button {
+        background-color: transparent;
+    }
+    #Our_Team img,
+    #Testimonials img,
+    #Solution_in_3_Easy_Steps span {
+        border-radius: 50%;
+    }
+    header .container nav ul li,
+    #branding h1 {
+        display: inline;
+    }
+    .yellow,
+    .white,
+    #Get_the_App_Here button {
+        padding: 15px 55px;
+    }
+    .yellow,
+    .white,
+    #up {
+        border: 0;
+    }
+    #branding img,
+    #branding h1,
+    #Denise_Hope .sidebar {
+        position: relative;
+    }
+    section:nth-of-type(odd) {
+        background-color: #ECEFF1;
+    }
+    #Expand_Your_Digital_Presence .image,
+    .box,
+    #Denise_Hope .sidebar,
+    .Numbers_box,
+    #Great_Way_to_Describe_Your_App img,
+    .block {
+        display: inline-block;
+    }
+    button,
+    #up,
+    .accordion .row {
+        cursor: pointer;
+    }
+    .yellow:hover,
+    .white:hover,
+    #Get_the_App_Here button:hover,
+    #All_Blocks ul li a:hover {
+        transition: 0.3s;
+    }
+    #All_Blocks,
+    #Get_the_App_Here button,
+    #Get_the_App_Here button:nth-of-type(2):hover,
+    .horizontal_line {
+        border: 1px solid #FBC844;
+    }
+    #All_Blocks ul li a:hover,
+    #Get_the_App_Here button .fa,
+    #Get_the_App_Here button:nth-of-type(1):hover,
+    .social_links a .fa,
+    #Choose_Your_Plan table span,
+    .Numbers_box span,
+    .accordion .row span,
+    #Contacts .container .fa,
+    #Contacts .container .box:last-child button:hover,
+    #Contacts .container .box:last-child button:hover .fa {
+        color: #FBC844;
+    }
+    #People_Love_Numbers .horizontal_line,
+    section h1 {
+        margin-bottom: 50px;
+    }
+    #hero h1,
+    #Expand_Your_Digital_Presence h1,
+    #Get_the_App_Here h1,
+    #Denise_Hope h1,
+    #People_Love_Numbers h1 {
+        margin-bottom: 0;
+    }
+    #Expand_Your_Digital_Presence p,
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(3),
+    #Choose_Your_Plan .box:nth-of-type(1) table tr td p:nth-of-type(4),
+    #Choose_Your_Plan .box:nth-of-type(2) table tr td p:nth-of-type(4),
+    #Testimonials p,
+    #Contacts .box p {
+        color: #888;
+    }
+    .progress_bar,
+    .progress_filled {
+        height: 12px;
+    }
+    header,
+    #All_Blocks ul li,
+    #All_Blocks ul li a,
+    .progress_bar,
+    #Choose_Your_Plan table,
+    #Denise_Hope img,
+    #App_Screenshots img,
+    #Show_The_Timeline_of_Your_Project img {
+        width: 100%;
+    }
+    #job_positions .box,
+    #Contacts .box,
+    section,
+    section h1,
+    footer {
+        text-align: center;
+    }
+    #hero *,
+    #Expand_Your_Digital_Presence *,
+    #Denise_Hope *,
+    #Testimonials,
+    #Great_Way_to_Describe_Your_App,
+    #Solution_in_3_Easy_Steps,
+    #Frequently_asked_questions {
+        text-align: left;
+    }
+    header nav,
+    #Expand_Your_Digital_Presence .sidebar,
+    .progress_cover span:nth-of-type(2),
+    #Denise_Hope .sidebar,
+    #Testimonials .box:nth-of-type(2),
+    #Great_Way_to_Describe_Your_App img,
+    #Solution_in_3_Easy_Steps p,
+    .block,
+    .accordion .row span {
+        float: right;
+    }
+    header .container nav ul li,
+    #branding,
+    #Testimonials img,
+    #Great_Way_to_Describe_Your_App .accordion,
+    #Solution_in_3_Easy_Steps span {
+        float: left;
+    }
+    #All_Blocks ul,
+    #All_Blocks ul li a,
+    .accordion .row a,
+    #Contacts .container button .fa {
+        color: #000;
+    }
+    .yellow,
+    .white,
+    #up,
+    .progress_filled,
+    #Get_the_App_Here button:nth-of-type(2):hover,
+    #Solution_in_3_Easy_Steps span {
+        background-color: #FBC844;
+    }
+    .yellow:hover,
+    .white:hover,
+    #up,
+    header,
+    header .container nav ul li a,
+    #branding h1,
+    #hero h1,
+    #hero p,
+    #Get_the_App_Here *,
+    #Get_the_App_Here button:nth-of-type(2):hover .fa,
+    #Solution_in_3_Easy_Steps span {
+        color: #fff;
+    }
+    section {
+        padding: 100px 0;
+    }
+    .white,
+    #All_Blocks,
+    #Get_the_App_Here button:nth-of-type(1):hover {
+        background-color: #fff;
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    #up,
+    header .container nav ul li:last-child a .fa,
+    #Choose_Your_Plan table tr:nth-of-type(1) td,
+    #Choose_Your_Plan table span,
+    #People_Love_Numbers span,
+    .accordion .row a,
+    .accordion .row span {
+        font-weight: 900;
+    }
+    #All_Blocks,
+    #Testimonials p,
+    #job_positions p {
+        padding: 10px 0;
+    }
+    .open,
+    form input,
+    form textarea,
+    form button {
+        display: block;
+    }
+    .progress_cover:nth-of-type(3) .progress_bar .progress_filled,
+    form input,
+    form textarea,
+    form button {
+        width: 90%;
+    }
+    h1 {
+        font-size: 35px;
+        letter-spacing: 2px;
+    }
+    a {
+        text-decoration: none;
+    }
+    .yellow:hover,
+    .white:hover {
+        background-color: #aaa;
+    }
+    #up {
+        padding: 5px 10px;
+        font-size: 25px;
+        bottom: 40px;
+        right: 40px;
+        display: none;
+    }
+    /* header */
+    header {
+        padding: 20px 0;
+        z-index: 100;
+    }
+    #nav_btn {
+        display: none;
+    }
+    header .container nav ul li a {
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        padding: 5px 10px;
+    }
+    header .container nav ul li {
+        padding: 5px 20px;
+    }
+    #branding h1 {
+        top: -7px;
+        margin-left: 2vw;
+    }
+    header .container nav ul li a:hover {
+        border-bottom: 1px solid #FBC844;
+    }
+    #All_Blocks {
+        width: 184px;
+        margin: 10px -20px;
+        position: absolute;
+        visibility: hidden;
+    }
+    #allblocks:hover #All_Blocks {
+        visibility: visible;
+    }
+    #All_Blocks ul li a {
+        letter-spacing: 0;
+        text-transform: capitalize;
+        border: 0;
+    }
+    #hero {
+        padding: 300px 0 100px 0;
+        background: url('../images/Dark-Black-Background3.jpg') no-repeat scroll center;
+        background-size: cover;
+    }
+    #hero h1 {
+        font-size: 45px;
+        letter-spacing: 1.5px;
+    }
+    #hero p {
+        margin: 20px 0 40px 0;
+        font-size: 17px;
+    }
+    #hero .yellow {
+        margin-right: 2vw;
+    }
+    #Expand_Your_Digital_Presence {
+        padding: 100px 50px;
+    }
+    #Expand_Your_Digital_Presence .sidebar {
+        margin-top: 130px;
+    }
+    #Expand_Your_Digital_Presence h1 {
+        margin-bottom: 30px;
+    }
+    #progress_box {
+        margin-top: 20px;
+    }
+    .progress_bar {
+        background-color: #eee;
+        margin: 5px 0;
+    }
+    .progress_cover {
+        margin-top: 15px;
+    }
+    .progress_cover:nth-of-type(1) .progress_bar .progress_filled {
+        width: 95%;
+    }
+    .progress_cover:nth-of-type(2) .progress_bar .progress_filled {
+        width: 99%;
+    }
+    #Get_the_App_Here {
+        background: url('../images/Dark-Black-Background2.jpg') no-repeat center;
+        background-size: cover;
+        height: 500px;
+        padding-top: 100px;
+    }
+    #Get_the_App_Here button {
+        margin-top: 50px;
+        font-size: 17px;
+    }
+    #Get_the_App_Here button:nth-of-type(1) {
+        margin-right: 40px;
+    }
+    #Get_the_App_Here button:nth-of-type(1):hover {
+        border: 1px solid #fff;
+    }
+    .horizontal_line {
+        width: 10vw;
+        margin: 30px auto auto auto;
+    }
+    #Your_Main_Features h3 {
+        font-size: 25px;
+    }
+    #Your_Main_Features .box {
+        width: 32%;
+    }
+    #Our_Team img {
+        margin-bottom: 20px;
+    }
+    #Our_Team .box {
+        width: 24%;
+    }
+    #Our_Team h3 {
+        font-size: 21px;
+    }
+    #Our_Team p {
+        margin-top: 5px;
+    }
+    .social_links a .fa {
+        margin: 10px;
+    }
+    #Choose_Your_Plan .box {
+        width: 30%;
+    }
+    #Choose_Your_Plan table tr td p {
+        padding: 10px;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(2) td {
+        padding: 30px;
+    }
+    #Choose_Your_Plan table tr:nth-of-type(1) td {
+        font-size: 20px;
+        border-bottom: 1px solid #ccc;
+    }
+    #Choose_Your_Plan .container .box:nth-of-type(odd) {
+        padding-bottom: 30px;
+    }
+    #Choose_Your_Plan .container .box:nth-of-type(2) {
+        border: 4px solid #FBC844;
+        padding-bottom: 30px;
+    }
+    #logos {
+        padding: 140px 0;
+    }
+    #logos .box {
+        width: 32.75%;
+    }
+    #Denise_Hope {
+        padding-top: 100px;
+    }
+    #Denise_Hope ul {
+        margin: 50px 0;
+    }
+    #Denise_Hope ul li {
+        margin: 15px 0;
+        background: url("../images/arrow.svg") 0 50% no-repeat;
+        padding-left: 15px;
+    }
+    #Denise_Hope .sidebar {
+        top: -300px;
+    }
+    #Denise_Hope .container img {
+        margin-bottom: -5px;
+    }
+    #Testimonials {
+        margin-top: -300px;
+    }
+    #Testimonials .box {
+        padding: 10px;
+    }
+    #Testimonials img {
+        width: 20%;
+    }
+    #Testimonials h2 {
+        font-size: 20px;
+        width: 70%;
+        margin-left: 30%;
+    }
+    #Testimonials p {
+        margin-left: 30%;
+    }
+    #App_Screenshots .box {
+        width: 24.35%;
+    }
+    .Numbers_box {
+        border: 2px solid #333;
+        font-size: 20px;
+        width: 47%;
+        margin: 1%;
+        padding: 25px;
+    }
+    .Numbers_box span {
+        font-size: 40px;
+    }
+    #Great_Way_to_Describe_Your_App {
+        padding-top: 100px;
+    }
+    #Great_Way_to_Describe_Your_App .accordion {
+        width: 56%;
+        margin-left: 10%;
+        top: 100px;
+    }
+    #Great_Way_to_Describe_Your_App .container img {
+        width: 30%;
+    }
+    #Great_Way_to_Describe_Your_App .row {
+        border-bottom: 1px solid #999;
+    }
+    .one_data,
+    .two_data,
+    .three_data {
+        padding: 10px 10px 10px 0;
+        display: none;
+    }
+    #Solution_in_3_Easy_Steps h2 {
+        font-size: 20px;
+    }
+    #Solution_in_3_Easy_Steps p {
+        color: grey;
+    }
+    #Solution_in_3_Easy_Steps .box {
+        width: 32.5%;
+        padding: 0 10px;
+    }
+    #Solution_in_3_Easy_Steps span {
+        padding: 8px 18px;
+        width: 50px;
+        height: 50px;
+        margin: 5px 0 0 5px;
+    }
+    .block {
+        width: 75%;
+    }
+    #Show_The_Timeline_of_Your_Project .box {
+        margin-top: 50px;
+        width: 32.5%;
+    }
+    #Show_The_Timeline_of_Your_Project p {
+        padding: 5px 15px;
+    }
+    #Frequently_asked_questions {
+        padding: 100px 0;
+    }
+    #Frequently_asked_questions .accordion {
+        border: 1px solid #B0BEC5;
+        width: 65%;
+        margin: 5% auto;
+    }
+    #Frequently_asked_questions .row {
+        border-bottom: 1px solid #B0BEC5;
+    }
+    #Frequently_asked_questions .accordion .row:last-child {
+        border-bottom: 0;
+    }
+    #Frequently_asked_questions .accordion .one_data,
+    #Frequently_asked_questions .accordion .two_data,
+    #Frequently_asked_questions .accordion .three_data {
+        color: grey;
+    }
+    .one_data {
+        display: block;
+    }
+    #job_positions .container,
+    #Contacts .container {
+        display: table;
+    }
+    #job_positions .box,
+    #Contacts .box {
+        display: table-cell;
+        width: 33%;
+    }
+    #job_positions .box p {
+        height: 100px;
+    }
+    #job_positions button {
+        bottom: 0;
+    }
+    #Contacts {
+        padding: 100px 0 50px 0;
+    }
+    #Contacts .box {
+        height: 50px;
+    }
+    #Contacts .box {
+        width: 45%;
+    }
+    #Contacts .box p {
+        margin: 20px;
+    }
+    form input,
+    form textarea,
+    form button {
+        margin: 20px;
+        font-size: 15px;
+    }
+    #Contacts button {
+        width: 160px;
+        padding: 15px;
+    }
+    #Contacts .container .box:last-child button:hover,
+    #Contacts .container .box:last-child button:hover .fa {
+        border-color: #000;
+    }
+    textarea {
+        resize: none;
+    }
+    footer {
+        background-color: #151515;
+        padding: 80px 0;
+    }
+    footer p {
+        margin: 20px;
+    }
+}
